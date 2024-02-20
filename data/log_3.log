@@ -1,0 +1,4 @@
+Tue Feb 20 23:04:28 2024, name: hello_world, args: (), kwargs: {}, result: Hello World
+Tue Feb 20 23:04:28 2024, name: summator, args: (2, 2), kwargs: {}, result: 4
+Tue Feb 20 23:04:28 2024, name: div, args: (6, 2), kwargs: {}, result: 3.0
+Tue Feb 20 23:04:28 2024, name: summator, args: (4.3,), kwargs: {'b': 2.2}, result: 6.5

@@ -1,0 +1,1 @@
+Tue Feb 20 23:04:28 2024, name: flat_generator_2, args: ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],), kwargs: {}, result: ['a', 'b', 'c', 'd', 'e', 'f', 'h', False, 1, 2, None, '!']
